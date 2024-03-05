@@ -1,0 +1,9 @@
+.send-btn{
+    background-color:#ff0000;
+    height:72px;
+}
+@media (max-width: 415px){
+    .send-btn{
+        width:100%
+    }
+}

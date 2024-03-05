@@ -1,0 +1,11 @@
+.chat_image{
+    width:200px;
+    height:200px;
+}
+.Avatar_icon{
+    width:155px;
+}
+.messages-list{
+    height:500px;
+    overflow-y: auto;
+}
